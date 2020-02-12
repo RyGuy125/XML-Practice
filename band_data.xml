@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="band_styles.css"?>
+
+<band xmlns="http://www.w3schools.com/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.w3schools.com/ band_data.xsd">
+	<name>Sunday Morning</name>
+	<genre>Cover Band/Rock</genre>
+	<set>
+		<song>
+			<title>&quot;Sunday Morning&quot;</title>
+			<length>2:53</length>
+			<album>Lou Reed Covers</album>
+			<year>2016</year>
+		</song>
+		<song>
+			<title>&quot;So What&quot;</title>
+			<length>9:22</length>
+			<album>Unforgettable Jazz</album>
+			<year>2015</year>
+		</song>
+		<song>
+			<title>&quot;Shakedown Street&quot;</title>
+			<length>4:59</length>
+			<album>Old but Gold</album>
+			<year>2019</year>
+		</song>
+		<song>
+			<title>&quot;Fire on the Mountain&quot;</title>
+			<length>3:46</length>
+			<album>Old but Gold</album>
+			<year>2019</year>
+		</song>
+		<song>
+			<title>&quot;Forever&quot;</title>
+			<length>5:58</length>
+			<album>Songs for your Bar/Bat Mitzvah</album>
+			<year>2015</year>
+		</song>
+	</set>
+</band>
